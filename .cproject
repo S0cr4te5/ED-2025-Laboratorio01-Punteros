@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="es.sidelab.pascaline.managedbuild.config.fpc.exe.debug.win.1208706831">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="es.sidelab.pascaline.managedbuild.config.fpc.exe.debug.win.1208706831" moduleId="org.eclipse.cdt.core.settings" name="Debug">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.PE" point="org.eclipse.cdt.core.BinaryParser"/>
+					<extension id="es.sidelab.pascaline.core.FreePascalErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.MakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactExtension="exe" artifactName="${ProjName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe,org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.debug" cleanCommand="rm -rf" description="" errorParsers="org.eclipse.cdt.core.MakeErrorParser;es.sidelab.pascaline.core.FreePascalErrorParser" id="es.sidelab.pascaline.managedbuild.config.fpc.exe.debug.win.1208706831" name="Debug" parent="es.sidelab.pascaline.managedbuild.config.fpc.exe.debug.win">
+					<folderInfo id="es.sidelab.pascaline.managedbuild.config.fpc.exe.debug.win.1208706831." name="/" resourcePath="">
+						<toolChain id="es.sidelab.pascaline.managedbuild.toolchain.fpc.exe.debug.mingw.260933590" name="Pascal TurboPascal Win32" superClass="es.sidelab.pascaline.managedbuild.toolchain.fpc.exe.debug.mingw">
+							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.PE" id="es.sidelab.pascaline.managedbuild.fpc.targetplatform.mingw.207560508" name="Debug Platform" osList="win32" superClass="es.sidelab.pascaline.managedbuild.fpc.targetplatform.mingw"/>
+							<builder buildPath="${workspace_loc:/ED-2025-Laboratorio01-Punteros}/Debug" id="es.sidelab.pascaline.managedbuild.fpc.builder.mingw.2038177903" managedBuildOn="true" name="CDT Internal Builder.Debug" superClass="es.sidelab.pascaline.managedbuild.fpc.builder.mingw"/>
+							<tool id="es.sidelab.pascaline.managedbuild.tool.fpc.compiler.exe.debug.mingw.374025834" name="FPC Wrapper" superClass="es.sidelab.pascaline.managedbuild.tool.fpc.compiler.exe.debug.mingw"/>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="ED-2025-Laboratorio01-Punteros.es.sidelab.pascaline.managedbuild.target.fpc.exe.win.694620042" name="Executable (TurboPascal on Windows)" projectType="es.sidelab.pascaline.managedbuild.target.fpc.exe.win"/>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+</cproject>
